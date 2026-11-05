@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "修复启动后设置页加载失败；启动时自动打开设置页；检查失败后 10 分钟重试",
-  "pub_date": "2026-11-05T07:06:11.288Z",
+  "version": "0.2.4",
+  "notes": "修复启动问题，新增清除所有数据与更新说明",
+  "pub_date": "2026-11-05T09:45:41.616Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEd2UVdSa0NVZDJ5K2VyNWNSZHl0N2hFNkltSGRWUGxqeUlZck5tQTR1T3krRVRISFJWeWFFVU9BdWNxYWtSeExrVzlZWUVGems5NnQ0SFRZSjltZUlxaktPK2N2VVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODYyMzcxCWZpbGU6Q2xpcG5lc3RfMC4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4yCkxIbmFETHZuTEtRdVllRERnR0tVekFQT1lBeXBEbTlQcHNyZmdVRGZVVGRWL2orN240ZmlvSUl3R01aVmd6b244NmFWa0JZL0hoQlpHSHY2cHRnQ0RBPT0K",
-      "url": "https://mgxynsmn.github.io/clipnest-updates/downloads/v0.2.2/Clipnest_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEd2UVdSa0NVZDc5bWJvaXNCLy9VdDhIakROOEloL0x2ZVVTR2FHM1E1OGF5WGllSEJBY2ZFT2VnYWpXMmpuZWNpWjVPRHMwWVdaeXhyV3l1VGVBcnEyS3lSdlNwWkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODcxOTQxCWZpbGU6Q2xpcG5lc3RfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40CjBmKzR5SWdTcEtMc21aYWMwS1JVRXlvV2tmTHZYeWNqTW8ybmtyRE85dEpNbHJ1SDNEalR6K0hLRnRPR1JxSE9rYmZnZzVsNTRnbHRrR3ZlV0tEaERRPT0K",
+      "url": "https://mgxynsmn.github.io/clipnest-updates/downloads/v0.2.4/Clipnest_0.2.4_x64_update.exe"
     }
   }
 }
